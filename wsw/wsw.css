@@ -1,11 +1,14 @@
 #title{position:sticky;background-color:white;padding:10px;top:50px;display:flex;flex-direction:row;;justify-content:space-between}
 .title{padding:5px;background-color:white;width:70px;text-align:center}
 #intro{background-color:black;padding-top:300px;padding-bottom:300px}
-#counsel{border-radius:15px;font-size:15px;padding-top:5px;padding-bottom:5px;padding-left:20px;padding-right:20px;position:absolute;margin-top:300px;margin-left:1400px;}
-.par{font-size:20px;width: 600px;text-wrap-style:auto}
+#counsel{width:100px;border-radius:15px;font-size:15px;padding-top:5px;padding-bottom:5px;padding-left:20px;padding-right:20px;position:fixed;margin-top:300px;margin-left:1250px;}
+.par{font-size:20px;width: 600px;text-wrap-style:auto;margin-left:50px}
 #links{background-color:black;color:white;display:flex;flex-direction:row;justify-content:space-between}
-#call{display:flex;flex-direction:row}
-#sns{display:flex;flex-direction:row}
+#call{display:flex;flex-direction:row;justify-content:flex-start;flex-wrap:nowrap;align-content:center}
+#sns{display:flex;flex-direction:row;align-content:center}
 #branch{display:flex;flex-direction:row;}
 .contact{margin-right:10px;margin-left:10px}
 .intro{margin-left:100px}
+#welcome{display:flex;flex-direction:row;justify-content:space-between}
+.wcimage{margin-right:50px}
+.logo{align-self:center}
