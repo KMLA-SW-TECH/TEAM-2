@@ -1,5 +1,11 @@
-#title{position:sticky;background-color:white;padding:10px;top:50px;display:flex;flex-direction:row;;justify-content:end}
-.title{padding:5px;background-color:white;width:70px}
-#intro{background-color:black}
+#title{position:sticky;background-color:white;padding:10px;top:50px;display:flex;flex-direction:row;;justify-content:space-between}
+.title{padding:5px;background-color:white;width:70px;text-align:center}
+#intro{background-color:black;padding-top:300px;padding-bottom:300px}
 #counsel{border-radius:15px;font-size:15px;padding-top:5px;padding-bottom:5px;padding-left:20px;padding-right:20px;position:absolute;margin-top:300px;margin-left:1400px;}
 .par{font-size:20px;width: 600px;text-wrap-style:auto}
+#links{background-color:black;color:white;display:flex;flex-direction:row;justify-content:space-between}
+#call{display:flex;flex-direction:row}
+#sns{display:flex;flex-direction:row}
+#branch{display:flex;flex-direction:row;}
+.contact{margin-right:10px;margin-left:10px}
+.intro{margin-left:100px}
